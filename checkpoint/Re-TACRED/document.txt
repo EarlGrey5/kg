@@ -1,0 +1,6 @@
+内含
+global_step.txt   （训练步数，用于断点继训）
+ner_args.json   （配置）
+ner_eval_report.txt   （评估报告）
+pytorch_model_ner.bin   （已训练模型）
+

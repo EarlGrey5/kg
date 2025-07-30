@@ -1,0 +1,16 @@
+---ner_data
+      ---dev.txt   (验证集）
+      ---labels.txt   （实体标签）
+      ---pending.txt   （测试用自然语言文本）
+      ---test.txt   （测试集）
+      ---train.txt   （训练集）
+---ori_data   （原始数据）
+      ---dev.json
+      ---test.json
+      ---train.json
+---re_data
+      ---dev.txt  
+      ---labels.txt   （关系标签）
+      ---pending.txt  
+      ---test.txt   
+      ---train.txt   
